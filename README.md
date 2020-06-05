@@ -2,3 +2,4 @@
 esercitazione
 
 modifica del 5 sera
+modifica remota

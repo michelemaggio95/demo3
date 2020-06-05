@@ -1,7 +1,4 @@
 # demo3
 esercitazione
 
-«aggiungere descrizione di un vincitore di TA»
-«aggiungere descrizione di un vincitore di TA»
-«aggiungere descrizione di un vincitore di TA»
-«aggiungere descrizione di un vincitore di TA»
+modifica del 5 sera
